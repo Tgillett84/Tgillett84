@@ -12,7 +12,7 @@ Hi there, Tameka here 👋
 ### 🤔 I’m looking for help with ... logistical data management
 
 <h2 align="center">
-### 🤝 Connect with me:
+🤝 Connect with me:
 </h2>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tameka-gillett-mba/)
@@ -21,12 +21,9 @@ Hi there, Tameka here 👋
 </a>
 </br>
 
-### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-
 
 <h2 align="center">
-### ⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
+⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
 </h2>
 
 ![This is an image](https://github.com/Tgillett84/Tgillett84/blob/f1fca720fb90e353714b10d5a56e5128bf33b2c7/secondpicframe.png)
