@@ -11,13 +11,16 @@ Hi there, Tameka here 👋
 ### 👯 I’m looking to collaborate on ... DoD projects
 ### 🤔 I’m looking for help with ... logistical data management
 
+<h2 align="center">
 ### 🤝 Connect with me:
+</h2>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tameka-gillett-mba/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tgillett84)
 </a>
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
