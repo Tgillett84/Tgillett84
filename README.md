@@ -23,13 +23,13 @@
     
     - Data Visualization and Building Dashboards with Excel and Cognos
     - Supply Chain Planning and Strategy
+    - Supply Chain Analytics Foundations
+    - SAP SD Fundamentals IC1636
     - MercuryGate International Best Practices Level 1 
     - MercuryGate International Introduction to MercuryGate
     - CLeaning Bad Data in R
     - Data Wrangling in R
     - R for Excel Users
-    - Supply Chain Analytics Foundations
-    - SAP SD Fundamentals IC1636
     - Programming Foundation in Python
     - Excel Apprentice Certification
     
