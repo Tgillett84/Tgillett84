@@ -1,4 +1,10 @@
-# Hi there 👋
+<p align="center">
+![This is an image](https://github.com/Tgillett84/Tameka-Gillett/blob/c4e53f1722953e43b3c73a36de033caf6d70785f/Mymarketing.png)
+</p>
+
+<h3 align="center">
+Hi there, I'm Tameka 👋
+</h3>
 
   ## Here is a little about me:
 
@@ -7,9 +13,11 @@
 ### 👯 I’m looking to collaborate on ... DoD projects
 ### 🤔 I’m looking for help with ... logistical data management
 
-### 📫 You can reach me on LinkedIn -> https://www.linkedin.com/in/tameka-gillett-mba/ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tameka-gillett-mba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/tameka-gillett-mba?trk=profile-badge">TAMEKA G.</a></div>
-              
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/tameka-gillett-mba/">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+</a> 
 
 ### ⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
 
@@ -42,11 +50,21 @@
     - AMMC 21-002 Army Maintenance Mngt Course
     - DAV 21-001 Data Analysis & Visualization Course
 
-### :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/tameka-gillett-mba/)
 
-![This is an image](https://github.com/Tgillett84/Tameka-Gillett/blob/c4e53f1722953e43b3c73a36de033caf6d70785f/Mymarketing.png)
+<br>
 
+## 💼 Technical Skills 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
+<br>
+
+[![Tameka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Tgillett84/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tgillett84&layout=compact)](https://github.com/Tgillett84)
 
