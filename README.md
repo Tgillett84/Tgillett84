@@ -7,7 +7,9 @@
 ### 👯 I’m looking to collaborate on ... DoD projects
 ### 🤔 I’m looking for help with ... logistical data management
 
-### 📫 You can reach me on LinkedIn -> https://www.linkedin.com/in/tameka-gillett-mba/
+### 📫 You can reach me on LinkedIn -> https://www.linkedin.com/in/tameka-gillett-mba/ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tameka-gillett-mba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/tameka-gillett-mba?trk=profile-badge">TAMEKA G.</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### ⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
 
@@ -43,4 +45,8 @@
 ### :computer: You can reach me on [LinkedIn](https://www.linkedin.com/in/tameka-gillett-mba/)
 
 ![This is an image](https://github.com/Tgillett84/Tameka-Gillett/blob/c4e53f1722953e43b3c73a36de033caf6d70785f/Mymarketing.png)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tgillett84&layout=compact)](https://github.com/Tgillett84)
 
