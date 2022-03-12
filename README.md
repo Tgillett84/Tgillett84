@@ -1,9 +1,7 @@
-<p align="center">
 ![This is an image](https://github.com/Tgillett84/Tameka-Gillett/blob/c4e53f1722953e43b3c73a36de033caf6d70785f/Mymarketing.png)
-</p>
 
 <h3 align="center">
-Hi there, I'm Tameka 👋
+Hi there, Tameka here 👋
 </h3>
 
   ## Here is a little about me:
@@ -64,7 +62,7 @@ width="30px" height="height">
 
 <br>
 
-[![Tameka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Tgillett84/github-readme-stats)
+[![Tameka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tgillett84)](https://github.com/Tgillett84/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tgillett84&layout=compact)](https://github.com/Tgillett84)
 
