@@ -13,7 +13,9 @@ Hi there, Tameka here 👋
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/tameka-gillett-mba/"><img align="left" src="https://raw.githubusercontent.com/Tgillett84/Tgillett84/main/images/linkedin.svg" alt="Tameka Gillett | LinkedIn" width="21px"/></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tameka-gillett-mba/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tgillett84)
 </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
