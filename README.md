@@ -24,7 +24,9 @@ Hi there, Tameka here 👋
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
+<h2 align="center">
 ### ⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
+</h2>
 
 ![This is an image](https://github.com/Tgillett84/Tgillett84/blob/f1fca720fb90e353714b10d5a56e5128bf33b2c7/secondpicframe.png)
 
