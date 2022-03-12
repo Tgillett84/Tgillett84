@@ -35,7 +35,7 @@
     - Programming Foundation in Python
     - Excel Apprentice Certification
     
-### :mortar_board: Courses
+### :mortar_board: Army Courses
     - Arbinger Institute Training
     - AMMC 21-002 Army Maintenance Mngt Course
     - DAV 21-001 Data Analysis & Visualization Course
