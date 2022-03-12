@@ -21,12 +21,14 @@
     - Lean Six Sigma Green Belt Certification
     - Lean Six Sigma Yellow Belt Certification
     
+## Supply Chain
     - Data Visualization and Building Dashboards with Excel and Cognos
     - Supply Chain Planning and Strategy
     - Supply Chain Analytics Foundations
     - SAP SD Fundamentals IC1636
     - MercuryGate International Best Practices Level 1 
     - MercuryGate International Introduction to MercuryGate
+## Data Analytics
     - CLeaning Bad Data in R
     - Data Wrangling in R
     - R for Excel Users
