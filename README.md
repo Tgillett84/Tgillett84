@@ -12,10 +12,12 @@ Hi there, Tameka here 👋
 ### 🤔 I’m looking for help with ... logistical data management
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/tameka-gillett-mba/">
-<img src="images/linkedin.png" alt="alternate text"
-width="30px" height="height">
-</a> 
+
+<a href="https://www.linkedin.com/in/tameka-gillett-mba/"><img align="left" src="https://raw.githubusercontent.com/Tgillett84/Tgillett84/main/images/linkedin.svg" alt="Tameka Gillett | LinkedIn" width="21px"/></a>
+</a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 ### ⚡ Fun fact: ... I'm a Female Army Veteran with two master's degrees and data science certifications
 
