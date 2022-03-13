@@ -1,4 +1,4 @@
-![This is an image](https://github.com/Tgillett84/Tameka-Gillett/blob/c4e53f1722953e43b3c73a36de033caf6d70785f/Mymarketing.png)
+![This is an image](https://github.com/Tgillett84/Tgillett84/blob/main/PND/mymarketing.pptx.jpg)
 
 <h3 align="center">
 Hi there, Tameka here 👋
