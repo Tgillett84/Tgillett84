@@ -30,7 +30,7 @@ Hi there, Tameka here 👋
 
 ### :school_satchel:  Florida International University - M.S. in Supply Chain Mngt
 ### :school_satchel:  University of Phoenix - MBA in Business Administration
-### :school_satchel:  University of Phoenix - B.S. in Business Administration/Project Mngt
+### :school_satchel:  University of Phoenix - B.S.B. in Business Administration/Project Mngt
 
 ### :mortar_board: Certifications
     - Lean Six Sigma Green Belt Certification
