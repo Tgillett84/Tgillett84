@@ -8,7 +8,7 @@ Hi there, Tameka here 👋
 
 ### 🔭 I am constantly growing my knowledge base on SAP, RStudio, Python, SPSS, SQL, Excel and anything that lets me utilize data for predictions.
 ### 🌱 I am in an avid learner for logistics and analytics.
-### 👯 I’m looking to collaborate on ... DoD and Supply Chain projects
+### 👯 I’m looking to collaborate on ... Supply Chain projects
 ### 🤔 I’m looking for help with ... innovative logistical data management ideas
 
 <h2 align="center">
