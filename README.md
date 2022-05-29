@@ -55,6 +55,14 @@ Hi there, Tameka here 👋
     - AMMC 21-002 Army Maintenance Mngt Course
     - DAV 21-001 Data Analysis & Visualization Course
 
+<!-- Begin: HubSpot Academy - Inbound Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Inbound'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/198911c6cdb744ed906f524af65ad668.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Badge -->
+
 
 <br>
 
