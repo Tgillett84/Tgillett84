@@ -63,6 +63,13 @@ Hi there, Tameka here 👋
 </div>
 <!-- End: HubSpot Academy - Inbound Badge -->
 
+<!-- Begin: HubSpot Academy - Inbound Sales Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Inbound Sales'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/23adbdeae1f74b1eb881dea2a8e18e21.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Sales Badge -->
 
 <br>
 
