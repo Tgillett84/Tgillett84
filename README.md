@@ -72,6 +72,13 @@ Hi there, Tameka here 👋
 <!-- End: HubSpot Academy - Inbound Sales Badge -->
 
 <br>
+<!-- Begin: HubSpot Academy - Frictionless Sales Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Frictionless Sales'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/8faa956bc8bf40b9bcf8d8afd323c9a0.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Frictionless Sales Badge -->
 
 ## 💼 Technical Skills 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
